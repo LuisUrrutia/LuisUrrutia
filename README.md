@@ -1,6 +1,6 @@
 ### Hi there! I'm Luis Urrutia <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt=":wave:">
 
-I'm a software engineer from Chile, mainly self-taught, fast-learner and challenge seeker. I'm currently in love of my family, Golang, Blockchain and Cross Country Cycling, and I want to build the best software of the web3 world. 
+I'm a software engineer from Chile, mainly self-taught, a fast learner, and a challenge seeker. I'm in love with my family, Golang, Blockchain, and Cross Country Cycling, and I want to build the best software in the web3 world. 
 
 ---
 
