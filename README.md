@@ -10,18 +10,22 @@
 
 ### 👨🏻‍💻 About Me
 
-Software Engineer at [OpenZeppelin](https://www.openzeppelin.com/). Right now I'm deep in blockchain, but I'm always up for new challenges. I ship side projects, contribute to open source, and go where the interesting problems are.
+Software Engineer based in Spain. Lately I'm deep in AI tools, Rust, Astro, and blockchain, but I'm always up for new challenges. I ship side projects, contribute to open source, and go where the interesting problems are.
 
-- 🔧 Building the [OpenZeppelin Relayer](https://github.com/OpenZeppelin/openzeppelin-relayer) in Rust
-- 🌱 Lately into AI tools, Rust, and Astro
-- 🌍 Based in Spain, working remote
+OpenSource things I worked on:
+
+- 🔧 [OpenZeppelin Monitors](https://github.com/OpenZeppelin/openzeppelin-monitor): a Rust service for watching on-chain activity and sending notifications
+- 🌐 [Ethereum Foundation website](https://github.com/ethereum/ethereum-org-website): Ethereum.org, the main online resource for the Ethereum community
+- 📸 [Gram](https://github.com/LuisUrrutia/gram): a Node/TypeScript CLI that works with an existing Instagram web session
+- 🔎 [Octosift](https://github.com/LuisUrrutia/octosift): TypeScript tooling that finds relevant GitHub repositories from a clear search intent
 - 🤝 Open to collaborations and good conversations
 
-Been coding for 18 years. Started at 14, got my first freelance client at 15. I've contributed to the [Ethereum Foundation website](https://github.com/ethereum/ethereum-org-website/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3ALuisUrrutia+is%3Aclosed), built trading bots, and shipped more side projects than I can count. I enjoy speeding things up and simplifying complex code.
+I've been coding for 18 years. I started at 14 and got my first freelance client at 15. I've contributed to the [Ethereum Foundation website](https://github.com/ethereum/ethereum-org-website/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3ALuisUrrutia+is%3Aclosed), built trading bots, and shipped more side projects than I can count. The work I enjoy most is making slow or complicated systems faster, clearer, and easier to reason about.
 
 ### 📫 Get in Touch
 
 - Email: [luis@urrutia.me](mailto:luis@urrutia.me)
+- Cal: [15-minute call](https://cal.com/luisurrutia/15min)
 - LinkedIn: [luisurrutiaf](https://www.linkedin.com/in/luisurrutiaf/)
 - X: [luisurrutia_dev](https://x.com/luisurrutia_dev)
 
